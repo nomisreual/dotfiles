@@ -1,0 +1,6 @@
+path = "/home/simon/"
+
+[ignore]
+local = "/home/simon/.local"
+config = "/home/simon/.config"
+cache = "/home/simon/.cache"
