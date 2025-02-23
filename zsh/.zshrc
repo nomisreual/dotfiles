@@ -57,6 +57,7 @@ alias la="ls -la"
 
 # Clear
 alias c="clear"
+alias cl="cd && clear"
 
 
 # Yazi
