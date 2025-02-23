@@ -27,6 +27,9 @@ setopt sharehistory      # Share history across all running ZSH sessions
 autoload -U compinit
 compinit
 
+# Vim motions
+bindkey -v
+
 # Starship prompt:
  eval "$(starship init zsh)"
 
@@ -58,6 +61,9 @@ alias la="ls -la"
 # Clear
 alias c="clear"
 alias cl="cd && clear"
+
+# Neovim
+alias n="nvim"
 
 
 # Yazi
