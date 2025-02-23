@@ -65,6 +65,8 @@ alias cl="cd && clear"
 # Neovim
 alias n="nvim"
 
+# Git
+alias gc="git commit"
 
 # Yazi
 alias y="yazi"
