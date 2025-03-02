@@ -10,25 +10,24 @@ window {
 
 #input {
     margin: 5px;
-    border-radius: 0px;
+    border-radius: 10px;
     border: none;
-    border-radius: 0px;;
     color: #eb6f92;
     background-color: #393552;
-    
 }
 
 #inner-box {
     margin: 5px;
     border: none;
     background-color: #393552;
-    color: #232136;
-    border-radius: 0px;
+    color: #c4a7e7;
+    border-radius: 10px;
 }
 
 #outer-box {
     margin: 15px;
     border: none;
+    border-radius: 10px;
     background-color: #232136;
 }
 
