@@ -71,7 +71,8 @@ alias gc="git commit"
 # Yazi
 alias y="yazi"
 
+# Let's grow up
 # fastfetch
-if [[ -z $TMUX ]]; then
-  fastfetch
-fi
+# if [[ -z $TMUX ]]; then
+#   fastfetch
+# fi
