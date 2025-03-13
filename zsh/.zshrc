@@ -42,8 +42,10 @@ eval "$(zoxide init --cmd cd zsh)"
 # Pipx (global python packages):
 export PATH="$PATH:/home/simon/.local/bin"
 
+# Set up fzf key bindings and fuzzy completion
+source <(fzf --zsh)
+
 # Syntax highlighting:
-# source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 if [[ -f /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ]]; then
   source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
