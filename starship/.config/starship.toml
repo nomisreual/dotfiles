@@ -16,7 +16,7 @@ deleted = '🗑'
 [os]
 format = "[$symbol]($style)"
 style = "bold blue"
-disabled = false
+disabled = true
 
 [os.symbols]
 Windows = " "
