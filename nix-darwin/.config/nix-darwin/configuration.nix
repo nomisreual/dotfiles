@@ -25,6 +25,7 @@
     starship
     zoxide
     stow
+    lazygit
   ];
 
   # Fonts
