@@ -26,6 +26,7 @@
     zoxide
     stow
     lazygit
+    gh
   ];
 
   # Fonts
