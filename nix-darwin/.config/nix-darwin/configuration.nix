@@ -11,6 +11,9 @@
   programs.zsh.enable = true;
 
   environment.systemPackages = with pkgs; [
+    nixd
+    nil
+    alejandra
     nodejs_22
     python313
     gnupg
