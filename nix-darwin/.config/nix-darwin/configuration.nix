@@ -17,6 +17,7 @@
     nodejs_22
     python313
     gnupg
+    direnv
     uv
     ripgrep
     fzf
@@ -55,7 +56,6 @@
       "signal"
       "vlc"
       "zed"
-      "wezterm"
       "microsoft-office"
       "slack"
       "balenaetcher"

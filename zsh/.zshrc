@@ -78,3 +78,7 @@ alias y="yazi"
 # if [[ -z $TMUX ]]; then
 #   fastfetch
 # fi
+#
+
+# direnv hook
+eval "$(direnv hook zsh)"
